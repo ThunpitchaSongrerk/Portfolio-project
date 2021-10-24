@@ -1,0 +1,216 @@
+body {
+    background-color: #f7f294;
+
+}
+
+h2 {
+    color: white;
+    padding: 10px;
+    border: 10px white double;
+    background-color: black;
+    display: inline;
+}
+
+.info {
+    margin: 20px;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.navBar {
+    display: flex;
+    justify-content: space-around;
+    color: black;
+    font-family: 'Quicksand', sans-serif;
+    margin: 25px;
+    text-align: center;
+}
+
+a:link {
+    text-decoration: none;
+    background-color: lightyellow;
+    font-size: 20px;
+}
+
+.tabs {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.video1 {
+    width: 400px;
+}
+
+.video2 {
+    width: 310px;
+    display: block;
+    margin: 10px 100px 10px 120px;
+}
+
+.video3 {
+    position: relative;
+    bottom: 1035px;
+    left: 925px;
+    width: 550px;
+}
+
+.video4 {
+    position: relative;
+    bottom: 380px;
+    left: 900px;
+    width: 550px;
+}
+
+.species {
+    text-align: center;
+    font-family: 'Benne', serif;
+    font-size: 20px;
+}
+
+.Javan {
+    border: 5px black solid;
+    background-color: #b6f268;
+    width: 850px;
+    height: 600px;
+    margin: 10px 20px 20px 20px;
+}
+
+.rhino {
+    width: 400px;
+    height: 300px;
+    border: 5px solid white;
+    margin: 10px;
+}
+
+.text1 {
+    text-align: center;
+    font-family: 'Benne', serif;
+    font-size: 20px;
+}
+
+.text2 {
+    text-align: center;
+    font-family: 'Benne', serif;
+}
+
+.text3 {
+    text-align: center;
+    font-family: 'Benne', serif;
+    font-size: 18px;
+}
+
+.text4 {
+    text-align: center;
+    font-family: 'Benne', serif;
+    font-size: 18px;
+}
+
+.Vaquita {
+    border: 5px black solid;
+    background-color: #b6f268;
+    width: 550px;
+    height: 600px;
+    margin: 10px 20px 20px 20px;
+    position: relative;
+    bottom: 630px;
+    left: 900px;
+}
+
+.vaq {
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+    display: block;
+    border: 5px solid white;
+}
+
+.Gorillas {
+    border: 5px black solid;
+    background-color: #b6f268;
+    width: 850px;
+    height: 400px;
+    margin: 10px 20px 20px 20px;
+    position: relative;
+    bottom: 610px;
+}
+
+.gori {
+    width: 350px;
+    height: 200px;
+    margin: 0 auto;
+    display: block;
+    border: 5px solid white;
+}
+
+.Tigers {
+    border: 5px black solid;
+    background-color: #b6f268;
+    width: 850px;
+    height: 400px;
+    margin: 10px 20px 20px 20px;
+    position: relative;
+    bottom: 1010px;
+
+}
+
+.stripes {
+    width: 350px;
+    height: 200px;
+    margin: 0 auto;
+    display: block;
+    border: 5px solid white;
+}
+
+.miniGame {
+    font-size: 30px;
+    font-family: 'Quicksand', sans-serif;
+    position: relative;
+    bottom: 1010px;
+    margin: 20px;
+}
+
+input {
+    position: relative;
+    bottom: 1010px;
+    width: 300px;
+    margin: 30px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+button {
+    position: relative;
+    bottom: 1010px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.result {
+    position: relative;
+    bottom: 1010px;
+    font-family: 'Quicksand', sans-serif;
+    margin: 30px;
+    font-size: 20px;
+}
+
+.gallery {
+	position: relative;
+    bottom: 900px;
+    font-family: 'Quicksand', sans-serif;
+    margin: 20px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.photos {
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    bottom: 900px;
+}
+
+.extra {
+	width: 500px;
+    height: 400px;
+    margin: 20px;
+}
